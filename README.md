@@ -5,13 +5,13 @@ KiUng Song : Interested in AI Research with Mathematics
 
 ### Education
 
-#### Seoul National University (SNU)
+#### Seoul National University (SNU): https://en.snu.ac.kr
 - 2020.09 - Current | **M.S. in Mathematical Sciences**
 - 2016.03 - 2020.08 | **B.S. in Mathematical Sciences (Major) and Industrial Engineering (Minor)**
 
 
 ### Experience
-- 2020.03 - 2020.12 | Business Data Analysts of SNU: Growth Hackers (Link : https://ghmkt.kr)
+- 2020.03 - 2020.12 | Business Data Analysts of SNU: Growth Hackers (Link: https://ghmkt.kr)
   - 2020.10 - 2020.12 | Project with Educast: Recommendation system
   - 2020.07 - 2020.08 | Project with TimFresh: Clustering of delivery area & Demand Forecasting
   - 2020.04 - 2020.06 | Project with Mathpresso: Recommendation system
