@@ -3,7 +3,7 @@ KiUng Song: Interested in AI Research along with Mathematics
 
 <!--  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKiUngSong&count_bg=%233D6AC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/KiUngSong) -->
 
-### For further information : 
+### For further information : https://chiseled-bread-38a.notion.site/KiUng-Song-fe9d4c9e80b34ca9926c309d4a0c091c
 ---
 
 ### Education
