@@ -15,7 +15,6 @@ KiUng Song: Interested in AI Research along with Mathematics
 
 ### Experience
 - 2021.10 - Current | Deepest: SNU Deep Learning Society (Link: https://deepest.ai/)
-
 - 2020.03 - 2020.12 | Business Data Analysts of SNU: Growth Hackers (Link: https://ghmkt.kr)
 
 
