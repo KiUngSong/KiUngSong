@@ -20,5 +20,5 @@ KiUng Song: Interested in AI Research along with Mathematics
 
 ### Contact
 * Personal E-Mail : sk851@snu.ac.kr
-* LinkedIn : https://linkedin.com/in/기웅-ki-ung-송-song-81693b222
+* LinkedIn : https://linkedin.com/in/ki-ung-song
 ---
