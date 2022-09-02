@@ -14,6 +14,7 @@ Ki-Ung Song: Interested in AI Research with Mathematical Thinking
 
 
 ### Experience
+- 2022.09 - Current | Deargen (Link: https://deargen.me/)
 - 2021.10 - Current | Deepest: SNU Deep Learning Society (Link: https://deepest.ai/)
 - 2020.03 - 2020.12 | Business Data Analysts of SNU: Growth Hackers (Link: https://ghmkt.kr)
 
