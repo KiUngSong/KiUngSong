@@ -1,9 +1,9 @@
-Ki-Ung Song: Interested in AI Research with Mathematical Thinking
+Ki-Ung Song: Problem Solver Who Wants To Change the World Through AI and Mathematics
 -----
 
 <!--  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKiUngSong&count_bg=%233D6AC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/KiUngSong) -->
 
-### For further information : https://kiungsong.notion.site/
+### For further information : [kiungsong.github.io](https://kiungsong.github.io)
 ---
 
 ### Education
@@ -21,5 +21,4 @@ Ki-Ung Song: Interested in AI Research with Mathematical Thinking
 
 ### Contact
 * Personal E-Mail : sk851@snu.ac.kr
-* LinkedIn : https://linkedin.com/in/ki-ung-song
 ---
