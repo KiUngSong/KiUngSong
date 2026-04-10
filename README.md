@@ -8,7 +8,7 @@ AI Research Engineer building efficient multimodal AI models and open-source too
 
 - **On-Device Multimodal Agents** — Compressing and optimizing vision-language models for edge deployment
 - **AI for Finance** — [TerraFin](https://github.com/KiUngSong/TerraFin): open-source tools for financial AI
-- **AI for Science** — Exploring neural approaches to physics simulation ([blog posts](https://kiungsong.github.io/pages/post))
+- **AI for Science** — Exploring AI physics for simulation ([blog posts](https://kiungsong.github.io/pages/post))
 
 ### Links
 
